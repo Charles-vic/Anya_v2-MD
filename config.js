@@ -13,8 +13,8 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "Me👀😁😅😎",
+    ownernumber: process.env.Owner_Number || "2348026942306",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
